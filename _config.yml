@@ -7,4 +7,5 @@ baseurl: "/resume"
 url: "http://mourawaldson.github.io"
 
 # Build settings
-markdown: redcarpet
+markdown: rdiscount
+highlighter: pygments
