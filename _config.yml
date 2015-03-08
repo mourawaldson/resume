@@ -1,0 +1,10 @@
+# Site settings
+title: Waldson Moura | Resume
+email: mourawaldson@gmail.com
+description: >
+  This is the Waldson Moura resume.
+baseurl: "/resume"
+url: "http://mourawaldson.github.io"
+
+# Build settings
+markdown: redcarpet
